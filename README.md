@@ -42,7 +42,7 @@ Update guide - see: [https://update.angular.io](https://update.angular.io)
 
 ``` bash
 # clone the repo
-$ git clone https://github.com/coreui/coreui-free-angular-admin-template.git my-project
+$ git clone https://github.com/radheshyamdhangar/github-coreuidashboard.git
 
 # go into app's directory
 $ cd my-project
@@ -80,15 +80,5 @@ free-angular-admin-template/
 ├── package.json
 └── ...
 ```
-
-## Documentation
-
-The documentation for the CoreUI Free Angularp Admin Template is hosted at our website [CoreUI](https://coreui.io/angular/)
-
-## Contributing
-
-Please read through our [contributing guidelines](https://github.com/coreui/coreui-free-angular-admin-template/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
-
-Editor preferences are available in the [editor config](https://github.com/coreui/coreui-free-angular-admin-template/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <http://editorconfig.org>.
 
 
